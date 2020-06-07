@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbers/"))
+      (outputdirectory "NightmareFixedNKROgerbers/"))
   )
 
   (net 0 "")
@@ -9392,7 +9392,7 @@
   (segment (start 396.6348 165.2662) (end 394.1318 162.7632) (width 0.25) (layer F.Cu) (net 36))
   (segment (start 401.2946 165.2662) (end 396.6348 165.2662) (width 0.25) (layer F.Cu) (net 36))
 
-  (zone (net 30) (net_name GND) (layer F.Cu) (tstamp 5D0B4A8A) (hatch edge 0.508)
+  (zone (net 30) (net_name GND) (layer F.Cu) (tstamp 5EDA8867) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -12611,7 +12611,7 @@
       )
     )
   )
-  (zone (net 30) (net_name GND) (layer B.Cu) (tstamp 5D0B4A87) (hatch edge 0.508)
+  (zone (net 30) (net_name GND) (layer B.Cu) (tstamp 5EDA8864) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
